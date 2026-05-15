@@ -1,105 +1,81 @@
 # Sistema Vakam
 Sistema silábico de representação harmônica.
 
-Este sistema foi desenvolvido por Wagner Candian Pereira como uma proposta original de representação harmônica baseada em sílabas fonéticas, com finalidade pedagógica e prática musical.
+Este sistema foi desenvolvido por Wagner Candian como uma proposta original de representação harmônica baseada em sílabas fonéticas. A ideia surgiu a partir da vontade de digitar cifras e progressões de canções de forma mais rápida no celular, sem ter que utilizar números, barras e simbolos diversos como #. 
 
-## Como funciona o Sistema Vakam
+---
+
+## Como funciona o Sistema Vakam 
+
 
 O Sistema Vakam transforma cada acorde em uma sílaba.
-
-Cada sílaba é formada por quatro elementos:
-
-Raiz + Qualidade + Extensão (opcional) + Baixo (opcional)
 
 ![Notas do Sistema Vakam](./vakam-template.png)
 
 
-1. Raiz (nota fundamental)
+Conforme a imagem acima, as consoantes representam a fundamental do acorde.
 
-Cada nota é representada por uma consoante.
+O tipo de acorde vai depender da vogal que vem a seguir. Cada vogal indica um tipo de acorde:
 
-- K = C
-- R = D
-- M = E
-- F = F
-- V = G
-- L = A
-- B = B
+ A = maior  
+ E = menor   
+ I = dominante    
+ O = diminuto   
+ U = meio diminuto (m7♭5)
 
-2. Qualidade (tipo do acorde)
+  Exemplos:
 
-Uma vogal indica o tipo do acorde.
+  Ka = C  
+  Ki = C7   
+  La = A  
+  Li = A7  
+  Pe = F#m  
+  Pu = F#m7(b5)
 
-- A = maior
-- E = menor
-- I = dominante
-- O = diminuto
-- U = meio diminuto (m7♭5)
+As mesmas consoantes podem ser adicionadas como sufixos no final da sílaba para apontar o baixo. Exemplos:
 
-3. Extensão (opcional)
+Kam = C/E 
 
-- S = sétima maior (maj7)
-- I = sétima menor (7)
+Jem = C#m/E 
 
-4. Baixo (opcional)
+Pax = F#/A#  
 
-Uma consoante final indica a nota do baixo.
+Mat = E/G#
 
 ---
 
-Exemplos
+Exemplo de Progressão:
 
-- Ka = C
-- Ke = Cm
-- Ki = C7
-- Kas = Cmaj7
-- Kei = Cm7
-- Kam = C/E
-- Pax = F#/A#
+Ka – Vi – Le – Fa = C – G7 – Am – F
+
+La - Mat - Pe MA = A E/G# F#m E
 
 ---
 
-Exemplo de Progressão
-
-Ka – Vi – Le – Fa
-
-equivale a:
-
-C – G – Am – F
-
----
-
-# Por que usar o Vakam?
+## Por que usar o Vakam?
 
 - Escrita mais rápida (Se você for digitar por exemplo, não usa numeros nem barras etc...)
-- Leitura fonética econômica (Um acorde como por exemp
+- Leitura fonética econômica 
 - Comunicação mais eficiente entre músicos
 
-
 ---
-
-📄 Consulte a documentação completa em PDF para conhecer todas as possibilidades do sistema.
-
-💬 Feedback e sugestões são bem-vindos na aba Issues.
 
 ## Documentação Completa
 
-Consulte o PDF disponível neste repositório.
+📄 Consulte a documentação completa em PDF para conhecer todas as possibilidades do sistema.
 https://github.com/wagnercandian/sistema-vakam/edit/main/README.md#:~:text=Sistema%20Vakam%20%2D-,Wagner,-Candian%20Pereira.pdf
 
-## Principais Características
+--- 
 
-- Rapidez de escrita
-- Leitura fonética
-- Comunicação de acordes e progressões de forma prática e econômica.
+💬 Feedback e sugestões são bem-vindos na aba Issues.
 
-## Feedback
-
-Sugestões e comentários são bem-vindos na aba Issues.
+---
 
 ## Histórico de Versões
 
 - 1.0 – Formalização inicial do sistema.
+
+---
 
 ## Licença
 
