@@ -64,7 +64,7 @@ La - Mat - Pe MA = A E/G# F#m E
 
 📄 [Consulte a documentação completa em PDF para conhecer todas as possibilidades do sistema](sistema-vakam.pdf)
 
-
+---
 
 💬 Feedback e sugestões são bem-vindos na aba Issues.
 
