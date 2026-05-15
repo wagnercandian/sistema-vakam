@@ -11,6 +11,11 @@ Cada sílaba é formada por quatro elementos:
 
 Raiz + Qualidade + Extensão (opcional) + Baixo (opcional)
 
+![Consoantes referentes às notas]( ./Vakam Template.png)
+
+
+
+
 1. Raiz (nota fundamental)
 
 Cada nota é representada por uma consoante.
