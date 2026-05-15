@@ -1,7 +1,7 @@
 # Sistema Vakam
 Sistema silábico de representação harmônica.
 
-Este sistema foi desenvolvido por Wagner Candian como uma proposta original de representação harmônica baseada em sílabas fonéticas. A ideia surgiu a partir da vontade de digitar cifras e progressões de canções de forma mais rápida no celular, sem ter que utilizar números, barras e simbolos diversos como #. 
+Este sistema foi desenvolvido por Wagner Candian como uma proposta original de representação harmônica baseada em sílabas fonéticas. A ideia surgiu a partir da vontade de digitar cifras e progressões de canções de forma mais rápida no celular, sem ter que utilizar números, barras e simbolos diversos.
 
 ---
 
