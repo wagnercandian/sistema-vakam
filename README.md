@@ -11,7 +11,7 @@ Cada sílaba é formada por quatro elementos:
 
 Raiz + Qualidade + Extensão (opcional) + Baixo (opcional)
 
-![Consoantes referentes às notas]( ./Vakam Template.png)
+![Consoantes referentes às notas]([Vakam Template.png](https://github.com/wagnercandian/sistema-vakam/edit/main/README.md#:~:text=Vakam%20Template.-,png,-Editing%20README.md))
 
 
 
