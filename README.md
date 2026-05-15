@@ -62,10 +62,9 @@ La - Mat - Pe MA = A E/G# F#m E
 
 ## Documentação Completa
 
-📄 Consulte a [documentação completa em PDF para conhecer todas as possibilidades do sistema](https://github.com/wagnercandian/sistema-vakam/edit/main/README.md#:~:text=sistema%2Dvakam-,.,-pdf)
+📄 [Consulte a documentação completa em PDF para conhecer todas as possibilidades do sistema](sistema-vakam.pdf)
 
 
---- 
 
 💬 Feedback e sugestões são bem-vindos na aba Issues.
 
